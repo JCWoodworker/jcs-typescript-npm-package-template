@@ -1,7 +1,7 @@
 {
   "name": "jcs-typescript-npm-package-template",
   "version": "1.0.0",
-  "description": "TypeScript boilerplate for NPM Packages",
+  "description": "JCs TypeScript boilerplate for NPM Packages",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
