@@ -1,7 +1,7 @@
 {
-  "name": "typescript-package-starter",
-  "version": "1.1.0",
-  "description": "TypeScript boilerplate for NPM or Github Packages",
+  "name": "jcs-typescript-npm-package-template",
+  "version": "1.0.0",
+  "description": "TypeScript boilerplate for NPM Packages",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -11,15 +11,14 @@
   },
   "keywords": [
     "typescript",
-    "github packages",
     "npm packages",
     "boilerplate"
   ],
-  "author": "Dale Nguyen",
-  "license": "ISC",
+  "author": "James Corey",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dalenguyen/typescript-package-starter.git"
+    "url": "https://https://github.com/JCWoodworker/typescript-npm-packate-starter.git"
   },
   "devDependencies": {
     "@types/chai": "^4.2.22",
